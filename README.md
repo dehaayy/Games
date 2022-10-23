@@ -1,4 +1,3 @@
 # Games
-My Games
 
-The game projects I work on
+The game projects I worked on
